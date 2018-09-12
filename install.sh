@@ -66,10 +66,10 @@ echo ""
 sleep 1
 echo "$green installing requirements...."
 sleep 0.9
-#pip install requests
-#pip2 install requests
-#pip install colorama
-#pip2 install colorama
+pip install requests
+pip2 install requests
+pip install colorama
+pip2 install colorama
 
 echo ""
 sleep 1
