@@ -1,7 +1,7 @@
 #Bismillah
 #Assalamu-Alaikum
 
-[!] TM-scanner :- TM-scanner is simple python script.This tool for detecting vulnerabilities in websites.
+[!] TM-scanner :- TM-scanner is a simple python script. This tool can be used to detect vulnerabilities in websites.
 
 [+] Author :-
 
